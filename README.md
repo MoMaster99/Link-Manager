@@ -5,9 +5,13 @@
 
 Commands:
 
-*`/bot-link`*
+*`/bot-link <BOT IS>`*
 
 *`/server-link`*
+
+*`/links`*
+
+*`/bot`*
 
 *`/BLACKLIST`*
 
